@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.media.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.input.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.web.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.FXMLController">
+   <top>
+      <ToolBar BorderPane.alignment="CENTER">
+         <items>
+            <ComboBox fx:id="engineComboBox" layoutX="14.0" layoutY="15.0" onAction="#engineBoxSelection" prefWidth="150.0">
+               <padding>
+                  <Insets left="5.0" right="5.0" />
+               </padding>
+            </ComboBox>
+            <ComboBox fx:id="dbComboBox" layoutX="14.0" layoutY="15.0" onAction="#dbBoxSelection" prefWidth="150.0">
+               <padding>
+                  <Insets left="5.0" right="5.0" />
+               </padding>
+            </ComboBox>
+            <Button fx:id="refreshBtn" alignment="CENTER" contentDisplay="CENTER" layoutX="317.0" layoutY="15.0" mnemonicParsing="false" onAction="#refreshComboBoxes" prefHeight="25.0" prefWidth="28.0" text="R" AnchorPane.leftAnchor="317.0">
+               <padding>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </padding>
+            </Button>
+            <TextField fx:id="txtSQL" layoutX="395.0" layoutY="15.0" onAction="#executeSQL" prefWidth="546.0" promptText="SQL a ejecutar + Enter">
+               <padding>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </padding>
+            </TextField>
+         </items>
+      </ToolBar>
+   </top>
+   <center>
+      <TextArea fx:id="txtArea" editable="false" BorderPane.alignment="CENTER">
+         <cursor>
+            <Cursor fx:constant="NONE" />
+         </cursor>
+         <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+         </padding>
+      </TextArea>
+   </center>
+   <left>
+      <VBox fx:id="vboxEng" prefHeight="563.0" prefWidth="200.0">
+         <children>
+            <ToolBar orientation="VERTICAL" prefHeight="113.0" prefWidth="200.0">
+               <items>
+                  <Label alignment="CENTER" contentDisplay="CENTER" prefWidth="200.0" text="Motor">
+                     <font>
+                        <Font name="System Bold" size="13.0" />
+                     </font>
+                  </Label>
+                  <Button mnemonicParsing="false" onAction="#showUsers" prefHeight="25.0" prefWidth="200.0" text="Listar usuarios" />
+               </items>
+            </ToolBar>
+            <VBox fx:id="vboxMeta" prefHeight="542.0" prefWidth="311.0" BorderPane.alignment="CENTER">
+               <children>
+                  <ToolBar orientation="VERTICAL" prefHeight="90.0" prefWidth="210.0">
+                     <items>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefWidth="200.0" text="Database">
+                           <font>
+                              <Font name="System Bold" size="13.0" />
+                           </font>
+                        </Label>
+                        <Button mnemonicParsing="false" onAction="#showTriggers" prefHeight="25.0" prefWidth="200.0" text="Listar triggers" />
+                        <Button layoutX="15.0" layoutY="48.0" mnemonicParsing="false" onAction="#showProcedures" prefHeight="25.0" prefWidth="200.0" text="Listar procedimientos" />
+                     </items>
+                  </ToolBar>
+                  <ToolBar orientation="VERTICAL" prefHeight="407.0" prefWidth="212.0">
+                     <items>
+                        <Label alignment="CENTER" contentDisplay="CENTER" prefWidth="200.0" text="Tabla">
+                           <font>
+                              <Font name="System Bold" size="13.0" />
+                           </font>
+                        </Label>
+                        <ListView fx:id="listTbl" prefHeight="343.0" prefWidth="200.0" />
+                        <Button layoutX="15.0" layoutY="48.0" mnemonicParsing="false" onAction="#showMetadata" prefHeight="25.0" prefWidth="200.0" text="Listar metadata" />
+                     </items>
+                  </ToolBar>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </left>
+</BorderPane>
