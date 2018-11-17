@@ -1,0 +1,780 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"COLO",
+				"COLOR_MAGENTA"
+			],
+			[
+				"COLOR",
+				"COLOR_BLUE"
+			],
+			[
+				"init_",
+				"init_pair"
+			],
+			[
+				"get_",
+				"get_opt"
+			],
+			[
+				"get",
+				"getchar"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"p",
+				"p_something"
+			],
+			[
+				"parse",
+				"parse_input"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"qu",
+				"QUERY_LEN"
+			],
+			[
+				"BD",
+				"BD_LEN"
+			],
+			[
+				"login",
+				"login_menu"
+			],
+			[
+				"logi",
+				"login_menu"
+			],
+			[
+				"PWD",
+				"PWD_MAX_LEN"
+			],
+			[
+				"USR_",
+				"USR_MIN_LEN"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"verif",
+				"verif_user"
+			],
+			[
+				"user",
+				"USR_MAX_LEN"
+			],
+			[
+				"File",
+				"FILE_PATH"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"FIL",
+				"FILE_PATH"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"PW",
+				"PWD_MAX_LEN"
+			],
+			[
+				"US",
+				"USR_MIN_LEN"
+			],
+			[
+				"MA",
+				"USR_MAX_LEN"
+			],
+			[
+				"getc",
+				"getch"
+			],
+			[
+				"for",
+				"forward_msg"
+			],
+			[
+				"exi",
+				"exit"
+			],
+			[
+				"master",
+				"mastersockfd"
+			],
+			[
+				"bf",
+				"buf"
+			],
+			[
+				"ex",
+				"EXIT_FAILURE"
+			],
+			[
+				"soc",
+				"sock_data"
+			],
+			[
+				"sock",
+				"sockaddr_in"
+			],
+			[
+				"sock_da",
+				"sock_data_len"
+			],
+			[
+				"sin",
+				"sin_addr"
+			],
+			[
+				"ip_",
+				"ip4_net"
+			],
+			[
+				"ai",
+				"ai_addrlen"
+			],
+			[
+				"sokc",
+				"sock_data"
+			],
+			[
+				"ip4",
+				"ip4_pre"
+			],
+			[
+				"ip4_",
+				"ip4_pre"
+			],
+			[
+				"A",
+				"AI_PASSIVE"
+			],
+			[
+				"ai_",
+				"ai_addrlen"
+			],
+			[
+				"AF_",
+				"AF_INET"
+			],
+			[
+				"ai_f",
+				"ai_flags"
+			],
+			[
+				"msg",
+				"msg_len"
+			],
+			[
+				"ret",
+				"ret_val"
+			],
+			[
+				"so",
+				"sockaddr"
+			],
+			[
+				"ai_ad",
+				"ai_addrlen"
+			],
+			[
+				"dest",
+				"dest_data"
+			],
+			[
+				"QU",
+				"QUERY_MAX_LEN"
+			],
+			[
+				"IP",
+				"IP4_STR_LEN"
+			],
+			[
+				"E",
+				"EXIT_FAILURE"
+			],
+			[
+				"QUERY",
+				"MAX_QUERY_LEN"
+			],
+			[
+				"AF",
+				"AF_INET"
+			],
+			[
+				"blue",
+				"blue_str"
+			],
+			[
+				"d",
+				"descriptor"
+			],
+			[
+				"ora",
+				"orangenico"
+			],
+			[
+				"orga",
+				"orange"
+			],
+			[
+				"pink",
+				"pinknico"
+			],
+			[
+				"pin",
+				"pinknico"
+			],
+			[
+				"purple",
+				"purple_key"
+			],
+			[
+				"blu",
+				"bluenico"
+			],
+			[
+				"bl",
+				"bluenico"
+			],
+			[
+				"red",
+				"red2"
+			],
+			[
+				"whit",
+				"white"
+			],
+			[
+				"b",
+				"bluenico"
+			],
+			[
+				"yel",
+				"yellownico"
+			],
+			[
+				"redn",
+				"rednico"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"blac",
+				"black3"
+			],
+			[
+				"oran",
+				"orange"
+			],
+			[
+				"yell",
+				"yellow"
+			],
+			[
+				"ser",
+				"servidores_encontrados"
+			],
+			[
+				"SOCK",
+				"SOCK_STREAM"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"te",
+				"tell\tfunction"
+			],
+			[
+				"poo",
+				"pool_size\tstatement"
+			],
+			[
+				"pol",
+				"pool_file\tstatement"
+			],
+			[
+				"pool",
+				"pool_size"
+			],
+			[
+				"po",
+				"pool_size\tstatement"
+			],
+			[
+				"cant",
+				"cant_entidades\tstatement"
+			],
+			[
+				"set",
+				"set_entidades\tstatement"
+			],
+			[
+				"read",
+				"readlines\tfunction"
+			],
+			[
+				"js",
+				"js_file\tstatement"
+			],
+			[
+				"lista",
+				"lista_entidades\tstatement"
+			],
+			[
+				"a",
+				"append\tfunction"
+			],
+			[
+				"w",
+				"write\tfunction"
+			],
+			[
+				"re",
+				"replace\tfunction"
+			],
+			[
+				"com",
+				"compile\tfunction"
+			],
+			[
+				"find",
+				"findall\tfunction"
+			],
+			[
+				"g",
+				"getroot\tfunction"
+			],
+			[
+				"fil",
+				"fill"
+			],
+			[
+				"solid",
+				"solid_underline"
+			],
+			[
+				"stip",
+				"stippled_underline"
+			],
+			[
+				"squi",
+				"squiggly_underline"
+			],
+			[
+				"impor",
+				"import\tkeyword"
+			],
+			[
+				"Base",
+				"BaseHTTPServer\tmodule"
+			],
+			[
+				"us",
+				"user_agent\tparam"
+			],
+			[
+				"end",
+				"end_headers"
+			],
+			[
+				"se",
+				"send_header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 64.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"Package Control: pip",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 182.0,
+		"history":
+		[
+			"menu",
+			"gcc cli.h -o cli",
+			"gcc cli.c -o cli",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nico/.config/sublime-text-3/Packages/User/C.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/User/C_build_lib_curses.sublime-build",
+		"/home/nico/.config/sublime-text-3/Packages/User/C++.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/User/C#.sublime-settings",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_servidor_switch/client/cli.h",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_servidor_switch/switch.h",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_servidor_switch/login.h",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_servidor_switch/app_cli.c",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_servidor_switch/sv.h",
+		"/home/nico/.config/sublime-text-3/Packages/Cheat Sheets/cheat-sheets/Git.cheatsheet",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_servidor_switch/test.c",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_servidor_switch/temp.c",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_servidor_switch/cli",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_servidor_switch/sv",
+		"/home/nico/Downloads/ejercicio3/ab_metadata.c",
+		"/home/nico/Downloads/README.txt",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/09_servidor_switch/cli.h",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/09_servidor_switch/login.h",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/09_servidor_switch/app_cli.c",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/09_servidor_switch/sv.h",
+		"/home/nico/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_sockets_en_c/cli.c",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_sockets_en_c/servidor/sv.c",
+		"/home/nico/.config/sublime-text-3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/home/nico/.config/sublime-text-3/Monokai.sublime-color-scheme",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_sockets_en_c/cliente/cli.c",
+		"/home/nico/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/Material Theme/Material-Theme-Darker.sublime-theme",
+		"/home/nico/.config/sublime-text-3/Packages/Material Theme/sources/themes/default/code_folding.json",
+		"/home/nico/.config/sublime-text-3/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/home/nico/.config/sublime-text-3/Packages/Theme - Default/Default.sublime-theme",
+		"/home/nico/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/nico/.config/sublime-text-3/home/nico/.config/sublime-text-3/Packages/User/Monokai.sublime-color-scheme",
+		"/home/nico/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Cache/Theme - Default/Widgets.stTheme.cache",
+		"/home/nico/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/nico/eclipse_workspaces/workspace_c/sockets/cx_pg.c",
+		"/home/nico/.config/sublime-text-3/Packages/C Improved/C Improved.tmLanguage",
+		"/home/nico/eclipse_workspaces/workspace_c/sockets/cx_mysql.c",
+		"/home/nico/test.c",
+		"/home/nico/eclipse_workspaces/workspace_c/sockets/app_cli.c",
+		"/home/nico/.config/sublime-text-3/Packages/Cheat Sheets/cheat-sheets/VIM Editor.cheatsheet",
+		"/home/nico/.config/sublime-text-3/Packages/Cheat Sheets/cheat-sheets/Github Flavored Markdown.cheatsheet",
+		"/home/nico/eclipse_workspaces/workspace_c/sockets/cx_fbd.c",
+		"/home/nico/eclipse_workspaces/workspace_c/sockets/cli.h",
+		"/home/nico/.config/sublime-text-3/Packages/DocBlockr/Base File.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/SublimeLinter-gcc/miscellaneous/demo.cpp",
+		"/home/nico/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/nico/.config/sublime-text-3/Packages/User/AdvancedCSV.sublime-settings",
+		"/home/nico/Downloads/eclipse-installer/eclipse-inst.ini",
+		"/home/nico/02_sistemas3/02_trabajos_practicos/trabajo_practico_01/bridge.txt",
+		"/home/nico/sudo",
+		"/home/nico/eclipse/cpp-photon/eclipse/configuration/config.ini",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/08_sockets_en_c/cliente/socket_cliente.c",
+		"/home/nico/01_bd2/04_unidades/01_unidad_2/sockets_en_c/cliente.c",
+		"/home/nico/01_bd2/04_unidades/00_unidad_1/00_tp1_modelo_implementaciones/facturacion/02_select_procedures.sql",
+		"/home/nico/01_bd2/04_unidades/00_unidad_1/00_tp1_modelo_implementaciones/facturacion/01_triggers.sql",
+		"/home/nico/Downloads/20180911.sql",
+		"/home/nico/Downloads/CardinalidadMaximaA.sql",
+		"/home/nico/Downloads/ImplementacionLog.sql",
+		"/home/nico/01_bd2/04_unidades/00_unidad_1/07_reglas_programacion_trgs.txt",
+		"/home/nico/02_sistemas3/vince_huston_org/www.vincehuston.org/dp/index.html",
+		"/home/nico/Downloads/Firebird-3.0.3.32900-0.amd64/Firebird-3.0.3.32900-0.amd64/manifest.txt",
+		"/home/nico/01_bd2/00_grch.com.ar/apuntes/unidad_2/02_java_anotaciones/docanotacion/media/KINGSTON/grchere/bjprj/docanotacion/README.TXT",
+		"/home/nico/01_bd2/00_grch.com.ar/apuntes/unidad_2/generics/Pila.ctxt",
+		"/home/nico/01_bd2/00_grch.com.ar/apuntes/unidad_2/generics/README.TXT",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_parser/sketch_graph.html",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_parser/parser.py",
+		"/home/nico/Downloads/TP INTEGRADOR-MOVA IGNACIO-143531/TyR2017-TPI-Mova-143531.pdf",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/parser.py",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/sketch_graph.html",
+		"/home/nico/temp.txt",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/pool2.txt",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/pool.txt",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/pool3.txt",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/DHCP.xml",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/output.json",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/color_palette.txt",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/143501.xml",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/graph.html",
+		"/home/nico/tyr/tps/tpl_07_integrador/01_code_&_parsing/143501.csv",
+		"/home/nico/tyr/tps/tpl_07_integrador/prueba",
+		"/home/nico/tyr/tps/tpl_07_integrador/csv",
+		"/home/nico/tyr/tps/tpl_07_integrador/export/143501.xml",
+		"/home/nico/tyr/tps/tpl_07_integrador/export/csv",
+		"/home/nico/tyr/tps/tpl_07_integrador/test",
+		"/home/nico/tyr/tps/tpl_07_integrador/test.txt",
+		"/home/nico/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/nico/tyr/tps/tpl_08_sockets/udp_socket/udp_echo_client.py",
+		"/home/nico/tyr/tps/tpl_08_sockets/tcp_socket/tcp_echo_server.py",
+		"/home/nico/tyr/tps/tpl_08_sockets/udp_echo_client.py",
+		"/home/nico/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/nico/tyr/tps/tpl_08_sockets/test.py",
+		"/home/nico/.config/sublime-text-3/Packages/User/achievement.sublime-settings",
+		"/home/nico/tyr/tps/tpl_07_integrador/template_captura/143501.html",
+		"/home/nico/tyr/tps/tpl_integrador/143501.html",
+		"/home/nico/netkit/dynamic_routing_RIP/lab.conf",
+		"/home/nico/netkit/dynamic_routing_RIP/r2.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/r4/etc/quagga/ripd.conf",
+		"/home/nico/netkit/dynamic_routing_RIP/r3/etc/quagga/ripd.conf",
+		"/home/nico/netkit/dynamic_routing_RIP/r1/etc/quagga/ripd.conf",
+		"/home/nico/netkit/dynamic_routing_RIP/LICENSE",
+		"/home/nico/netkit/dynamic_routing_RIP/isp.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/isp/etc/quagga/ripd.conf",
+		"/home/nico/netkit/dynamic_routing_RIP/r3.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/adm.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/gerencia.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/sv2.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/sv1.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/dispositivo.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/r4.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/r2/etc/quagga/ripd.conf",
+		"/home/nico/netkit/dynamic_routing_RIP/r4.disk",
+		"/home/nico/netkit/dynamic_routing_RIP/r1.startup",
+		"/home/nico/netkit/dynamic_routing_RIP/isp/etc/quagga/zebra.conf",
+		"/home/nico/Downloads/netkit-lab_rip-TYR/netkit-lab_rip/lab.conf",
+		"/home/nico/netkit/netkit-lab_dynamic_routing_RIP/lab.conf",
+		"/home/nico/netkit/netkit-lab_template/lab.conf",
+		"/home/nico/netkit/netkit-lab_template/show_routes.sh",
+		"/home/nico/netkit/netkit-lab_template/r2.startup",
+		"/home/nico/netkit/netkit-lab_template/sv2.startup",
+		"/home/nico/netkit/netkit-lab_template/sv1.startup",
+		"/home/nico/netkit/netkit-lab_template/r4.startup"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C.sublime-build",
+	"project": "cli.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
